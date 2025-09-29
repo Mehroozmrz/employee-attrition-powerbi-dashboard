@@ -59,7 +59,7 @@ Deep-dive analysis identifying specific employee segments with elevated attritio
    - Peak attrition at 21-25 km distance (27.35%)
    - Lowest attrition for employees living 0-5 km (13.77%)
 
-3. **Attrition Rate by Education Level** (horizontal stacked bar)
+3. **Attrition Rate by Education Level** (stacked bar chart)
    - Bachelor's degree holders show 17.3% attrition
    - Doctoral employees have lowest attrition at 6.5%
 
@@ -68,7 +68,7 @@ Deep-dive analysis identifying specific employee segments with elevated attritio
    - Shows stabilization effect after 10+ years of service
    - Color-coded cells (green = low risk, red = high risk)
 
-5. **Attrition by Performance Rating** (column chart)
+5. **Attrition by Performance Rating** (clustered column chart)
    - Compares Excellent vs Outstanding performers
    - Performance rating shows minimal impact on attrition
 
